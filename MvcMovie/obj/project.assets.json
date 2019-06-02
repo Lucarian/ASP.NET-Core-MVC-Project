@@ -5520,7 +5520,7 @@
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.2": {
-      "sha512": "fe1+dpy+eM4IX1zodsvkihO1Spuj0NecfStWzvkYoMo7/ziOsqSv4vFK36ZpBfHa4gpdCEwaU46EPzdq+ZDYhQ==",
+      "sha512": "ab4+TZw3Sxqrr5TwrwVyABeQkhSxYMJXgG6yZw7T+r6Vz+hcOt+pK79o15ESG7kZvWAK9wRG7emnTIia5O6R1Q==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.1.2",
       "hasTools": true,
@@ -12551,23 +12551,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\George\\.nuget\\packages\\": {},
+    "C:\\Users\\Georgios\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\George\\Desktop\\ASP.NET-Core-MVC-Project\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\Georgios\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\George\\Desktop\\ASP.NET-Core-MVC-Project\\MvcMovie\\MvcMovie.csproj",
-      "packagesPath": "C:\\Users\\George\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\George\\Desktop\\ASP.NET-Core-MVC-Project\\MvcMovie\\obj\\",
+      "projectPath": "C:\\Users\\Georgios\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "packagesPath": "C:\\Users\\Georgios\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Georgios\\source\\repos\\MvcMovie\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\George\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Georgios\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12603,7 +12603,6 @@
             "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
